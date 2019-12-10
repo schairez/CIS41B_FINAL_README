@@ -38,13 +38,12 @@ For the class project purpose, download and search will be limited to these top 
 
 
 # Demo:
-Below shows a demo of how to request the latest stock symbol price and
+## Below shows a demo of how to request the latest stock symbol price and
 supporting feautures of most up-to-date data
 ![alt-text](file_app_demo.gif
 )
 
 # App Layout
-![Test Image 1](app_screenshot.png)
 
 
 ## Front-end Buttons
