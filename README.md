@@ -38,7 +38,9 @@ For the class project purpose, download and search will be limited to these top 
 
 
 # Demo:
-![](http://gfycat.com/offbeatcompletebellfrog.gif)
+
+![Alt Text]
+(https://gfycat.com/offbeatcompletebellfrog.gif)
 
 
 
