@@ -1,6 +1,6 @@
 # CIS41B_FINAL_README
 
-Summary:
+# Summary:
 This app allows user to search stock, show concise current price details or show detailed price graph with custom analyses including moving average and regression analysis
 
 The following extra modules need to be installed as discussed with professor beforehand:
@@ -17,13 +17,22 @@ List box              - As user types in the entry box, listbox shows the valid 
 Price Forecast        - Shows regression graph with price prediction based on 5 year data
 Historical Stock Index Button - Allows user to select from top 10 SNP, time range to analyze, and whether to show simple or complex graph.
 
-Source Files:
+# Source Files:
 front_end.py                  - Front end with GUI
 back_end.py                   - Backend with Database/Server interface
 interactive_candlestick_v3.py - Power user graph
 interactive_plot_v3.py        - Simple user graph
 regression.py                 - Regression with price prediction
 README.txt                    - This file
+
+| File        | Short Description         |
+| ------------|:-------------------------:| 
+
+
+
+
+
+
 
 
 # Requirements
