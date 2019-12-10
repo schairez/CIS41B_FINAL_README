@@ -10,7 +10,7 @@ Search Button- User can either press enter in the entry box, or press search but
 List box     - As user types in the entry box, listbox shows the valid stock symbol that can be fetched
 Historical Stock Index Button - Allows user to select from top 10 SNP, time range to analyze, and whether to show simple or complex graph.
 
-#Requirements
+# Requirements
 ```bash
 $ python3 -m pip install mpl_finance
 $ python3 -m pip install pandas
