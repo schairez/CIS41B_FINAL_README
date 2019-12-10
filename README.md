@@ -10,12 +10,25 @@ Upon initial construction, 10 threads will be spawned to simultaneously download
 
 For the class project purpose, download and search will be limited to these top 10 SNP stocks. However, number of stocks can easily be increased for future expansion.
 
+## Front-end Buttons
+
+| Button              | Short Description                                              |
+| --------------------:---------------------------------------------------------------:| 
+| Help Button                   | Shows README.md, app summary, and useful links       | 
+| Entry box                     | User can type in the SNP top 10 symbols to search pricing    |   
+| Search today | User can either press enter in the entry box, or press search button to show the detailed pricing window |   
+| List box         | As user types in the entry box, listbox shows the valid stock symbol that can be fetched       |    
+|Price Forecast                | Shows regression graph with price prediction based on 5 year data                    |    
+|Historical Stock Index Button  | Allows user to select from top 10 SNP, time range to analyze, and whether to show simple or complex graph. |    
+
+
 Help Button           - Shows README.md, app summary, and useful links
 Entry box             - User can type in the SNP top 10 symbols to search pricing
 Search today          - User can either press enter in the entry box, or press search button to show the detailed pricing window
 List box              - As user types in the entry box, listbox shows the valid stock symbol that can be fetched
 Price Forecast        - Shows regression graph with price prediction based on 5 year data
 Historical Stock Index Button - Allows user to select from top 10 SNP, time range to analyze, and whether to show simple or complex graph.
+
 
 # Source Files:
 front_end.py                  - Front end with GUI
@@ -25,13 +38,13 @@ interactive_plot_v3.py        - Simple user graph
 regression.py                 - Regression with price prediction
 README.txt                    - This file
 
-| File          | Short Description         |
-| --------------|:-------------------------:| 
-| front_end.py  | Front end with GUI | 
-| back_end.py   | Backend with Database/Server interface     |   
-| interactive_candlestick_v3.py | - Power user graph     |    
-| interactive_plot_v3.py  | - Simple user graph     |    
-| iregression.py   | - Regression with price prediction    |    
+| File                          | Short Description                       |
+| ------------------------------|:---------------------------------------:| 
+| front_end.py                  | Front end with GUI                      | 
+| back_end.py                   | Backend with Database/Server interface  |   
+| interactive_candlestick_v3.py | - Power user graph                      |    
+| interactive_plot_v3.py        | - Simple user graph                     |    
+| iregression.py                | - Regression with price prediction      |    
 
 
 
