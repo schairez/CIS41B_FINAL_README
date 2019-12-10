@@ -38,8 +38,7 @@ For the class project purpose, download and search will be limited to these top 
 
 
 # Demo:
-
-[[ https://gfycat.com/meatyreadycub | height = 100px ]]
+!(image)[https://gfycat.com/offbeatcompletebellfrog.gif]
 
 # App Layout
 ![Test Image 1](app_screenshot.png)
