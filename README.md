@@ -25,8 +25,12 @@ interactive_plot_v3.py        - Simple user graph
 regression.py                 - Regression with price prediction
 README.txt                    - This file
 
-| File        | Short Description         |
-| ------------|:-------------------------:| 
+| File          | Short Description         |
+| --------------|:-------------------------:| 
+| front_end.py  | right-aligned | 
+| col 2 is      | centered      |   
+| zebra stripes | are neat      |    
+
 
 
 
