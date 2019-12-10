@@ -38,7 +38,8 @@ For the class project purpose, download and search will be limited to these top 
 
 
 # Demo:
-
+Below shows a demo of how to request the latest stock symbol price and
+supporting feautures of most up-to-date data
 ![alt-text](file_app_demo.gif
 )
 
