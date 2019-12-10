@@ -38,7 +38,9 @@ For the class project purpose, download and search will be limited to these top 
 
 
 # Demo:
-!(image)[https://gfycat.com/offbeatcompletebellfrog.gif]
+![Alt Text](https://gfycat.com/offbeatcompletebellfrog.gif)
+
+
 
 # App Layout
 ![Test Image 1](app_screenshot.png)
