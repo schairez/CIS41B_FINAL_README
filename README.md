@@ -42,7 +42,7 @@ For the class project purpose, download and search will be limited to these top 
 [[ http://www.sheawong.com/wp-content/uploads/2013/08/keephatin.gif | height = 100px ]]
 
 # App Layout
-
+![Test Image 1](app_screenshot.png)
 
 
 ## Front-end Buttons
