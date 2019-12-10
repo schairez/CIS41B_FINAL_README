@@ -27,11 +27,11 @@ README.txt                    - This file
 
 | File          | Short Description         |
 | --------------|:-------------------------:| 
-| front_end.py  | right-aligned | 
-| col 2 is      | centered      |   
-| zebra stripes | are neat      |    
-
-
+| front_end.py  | Front end with GUI | 
+| back_end.py   | Backend with Database/Server interface     |   
+| interactive_candlestick_v3.py | - Power user graph     |    
+| interactive_plot_v3.py  | - Simple user graph     |    
+| iregression.py   | - Regression with price prediction    |    
 
 
 
