@@ -11,6 +11,9 @@ List box     - As user types in the entry box, listbox shows the valid stock sym
 Historical Stock Index Button - Allows user to select from top 10 SNP, time range to analyze, and whether to show simple or complex graph.
 
 # Requirements
+You will need mpl_finance, pandas, numpy, matplotlib, sqlite3, and sklearn.
+If any of these are not installed on your system you can pip install them like the 
+examples below
 ```bash
 $ python3 -m pip install mpl_finance
 $ python3 -m pip install pandas
