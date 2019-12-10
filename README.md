@@ -12,6 +12,17 @@ $ python3 -m pip install sklearn
 ```
 
 
+# Source Files:
+
+| File                          | Short Description                       |
+| ------------------------------|:---------------------------------------:| 
+| front_end.py                  | Front end with GUI                      | 
+| back_end.py                   | Backend with Database/Server interface  |   
+| interactive_candlestick_v3.py | - Power user graph                      |    
+| interactive_plot_v3.py        | - Simple user graph                     |    
+| iregression.py                | - Regression with price prediction      |    
+
+
 
 # Summary:
 This app allows user to search stock, show concise current price details or show detailed price graph with custom analyses including moving average and regression analysis
@@ -42,19 +53,6 @@ Price Forecast
 Historical Stock Index Button 
 > Allows user to select from top 10 SNP, time range to analyze, and whether to show simple or complex graph. 
 ---
-
-
-
-# Source Files:
-
-| File                          | Short Description                       |
-| ------------------------------|:---------------------------------------:| 
-| front_end.py                  | Front end with GUI                      | 
-| back_end.py                   | Backend with Database/Server interface  |   
-| interactive_candlestick_v3.py | - Power user graph                      |    
-| interactive_plot_v3.py        | - Simple user graph                     |    
-| iregression.py                | - Regression with price prediction      |    
-
 
 
 
