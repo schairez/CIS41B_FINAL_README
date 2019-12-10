@@ -39,7 +39,7 @@ For the class project purpose, download and search will be limited to these top 
 
 # Demo:
 
-![alt-text(https://gfycat.com/offbeatcompletebellfrog.gif)
+![alt-text](https://gfycat.com/offbeatcompletebellfrog.gif)
 
 
 
