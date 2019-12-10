@@ -1,5 +1,18 @@
 # CIS41B_FINAL_README
 
+
+# Requirements
+You will need mpl_finance, pandas, numpy, matplotlib, sqlite3, and sklearn.
+If any of these are not installed on your system you can pip install them like the 
+examples below
+```bash
+$ python3 -m pip install mpl_finance
+$ python3 -m pip install pandas
+$ python3 -m pip install sklearn
+```
+
+
+
 # Summary:
 This app allows user to search stock, show concise current price details or show detailed price graph with custom analyses including moving average and regression analysis
 
@@ -47,13 +60,3 @@ Historical Stock Index Button
 
 
 
-
-# Requirements
-You will need mpl_finance, pandas, numpy, matplotlib, sqlite3, and sklearn.
-If any of these are not installed on your system you can pip install them like the 
-examples below
-```bash
-$ python3 -m pip install mpl_finance
-$ python3 -m pip install pandas
-$ python3 -m pip install sklearn
-```
