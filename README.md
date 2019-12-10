@@ -34,6 +34,17 @@ Upon initial construction, 10 threads will be spawned to simultaneously download
 
 For the class project purpose, download and search will be limited to these top 10 SNP stocks. However, number of stocks can easily be increased for future expansion.
 
+
+
+
+# Demo:
+
+[[ http://www.sheawong.com/wp-content/uploads/2013/08/keephatin.gif | height = 100px ]]
+
+# App Layout
+
+
+
 ## Front-end Buttons
 Help Button    
 > Shows README.md, app summary, and useful links 
