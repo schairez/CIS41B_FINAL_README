@@ -9,3 +9,10 @@ Entry box    - User can type in the SNP top 10 symbols to search pricing
 Search Button- User can either press enter in the entry box, or press search button to show the detailed pricing window
 List box     - As user types in the entry box, listbox shows the valid stock symbol that can be fetched
 Historical Stock Index Button - Allows user to select from top 10 SNP, time range to analyze, and whether to show simple or complex graph.
+
+#Requirements
+```bash
+$ python3 -m pip install mpl_finance
+$ python3 -m pip install pandas
+$ python3 -m pip install sklearn
+```
